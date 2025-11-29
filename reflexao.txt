@@ -3,3 +3,5 @@ A lógica dedutiva aparece no uso cotidiano do Git porque cada comando parte de p
 A decomposição aparece na criação de branches porque cada branch permite dividir o desenvolvimento em partes menores e independentes. Assim, funcionalidades ou correções podem ser trabalhadas separadamente sem afetar a linha principal, seguindo exatamente o princípio de quebrar um problema grande em várias etapas controláveis.
 
 Ao executar o git diff, percebi que a mudança nesta versão corresponde à adição de um novo parágrafo sobre decomposição e branches. O diff mostra claramente as linhas adicionadas, permitindo comparar a versão atual com a versão anterior antes do commit.
+
+O histórico exibido pelo git log mostra a ordem lógica das modificações: primeiro a reflexão inicial na branch main, depois a criação da branch desenvolvimento com a segunda reflexão e a análise do git diff, e por fim o merge dessas mudanças para a main. Isso evidencia como o Git organiza o fluxo de evolução do projeto de maneira rastreável e coerente.
