@@ -1,1 +1,5 @@
 A lógica dedutiva aparece no uso cotidiano do Git porque cada comando parte de premissas claras sobre o estado do repositório e gera resultados previsíveis. O git status compara o que mudou desde o último commit, o git diff mostra diferenças concretas entre versões e o git log permite acompanhar a sequência lógica das alterações. Isso torna o Git um sistema organizado e totalmente baseado em regras de rastreamento e controle.
+
+A decomposição aparece na criação de branches porque cada branch permite dividir o desenvolvimento em partes menores e independentes. Assim, funcionalidades ou correções podem ser trabalhadas separadamente sem afetar a linha principal, seguindo exatamente o princípio de quebrar um problema grande em várias etapas controláveis.
+
+Ao executar o git diff, percebi que a mudança nesta versão corresponde à adição de um novo parágrafo sobre decomposição e branches. O diff mostra claramente as linhas adicionadas, permitindo comparar a versão atual com a versão anterior antes do commit.
